@@ -1,0 +1,11 @@
+# VisionFi client package (distribution name 'visionfi-client' but imports as 'visionfi')
+visionfi-client>=0.1.0
+
+# Core dependencies (may be included in visionfi-client)
+requests>=2.25.0
+pydantic>=1.8.0
+google-auth>=2.0.0
+google-auth-oauthlib>=0.4.0
+
+# CLI dependencies
+colorama>=0.4.6

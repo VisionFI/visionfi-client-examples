@@ -1,0 +1,12 @@
+# Claude integration files
+CLAUDE.md
+claude-*.md
+**/claude-*.md
+**/CLAUDE.md
+QualityCheckSystem.md
+
+# Ignore all contents of the contracts directory
+files/contracts/**
+
+# Keep this .gitignore file
+!.gitignore

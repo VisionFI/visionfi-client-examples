@@ -1,0 +1,27 @@
+# Common patterns for the entire repo
+
+# Claude integration files
+CLAUDE.md
+claude-*.md
+**/claude-*.md
+**/CLAUDE.md
+QualityCheckSystem.md
+**/QualityCheckSystem.md
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Local configuration
+.env
+.env.local
+.env.*.local
+
+# Service account files - avoid accidentally committing these
+*service_account*.json
+*credentials*.json
+
+# Each subdirectory will have its own .gitignore file for language/project-specific patterns

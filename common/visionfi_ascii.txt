@@ -1,0 +1,16 @@
+VVVVVVVV           VVVVVVVV iiii                     iiii                                     FFFFFFFFFFFFFFFFFFFFFFIIIIIIIIII
+V::::::V           V::::::Vi::::i                   i::::i                                    F::::::::::::::::::::FI::::::::I
+V::::::V           V::::::V iiii                     iiii                                     F::::::::::::::::::::FI::::::::I
+V::::::V           V::::::V                                                                   FF::::::FFFFFFFFF::::FII::::::II
+ V:::::V           V:::::Viiiiiii     ssssssssss   iiiiiii    ooooooooooo   nnnn  nnnnnnnn      F:::::F       FFFFFF  I::::I  
+  V:::::V         V:::::V i:::::i   ss::::::::::s  i:::::i  oo:::::::::::oo n:::nn::::::::nn    F:::::F               I::::I  
+   V:::::V       V:::::V   i::::i ss:::::::::::::s  i::::i o:::::::::::::::on::::::::::::::nn   F::::::FFFFFFFFFF     I::::I  
+    V:::::V     V:::::V    i::::i s::::::ssss:::::s i::::i o:::::ooooo:::::onn:::::::::::::::n  F:::::::::::::::F     I::::I  
+     V:::::V   V:::::V     i::::i  s:::::s  ssssss  i::::i o::::o     o::::o  n:::::nnnn:::::n  F:::::::::::::::F     I::::I  
+      V:::::V V:::::V      i::::i    s::::::s       i::::i o::::o     o::::o  n::::n    n::::n  F::::::FFFFFFFFFF     I::::I  
+       V:::::V:::::V       i::::i       s::::::s    i::::i o::::o     o::::o  n::::n    n::::n  F:::::F               I::::I  
+        V:::::::::V        i::::i ssssss   s:::::s  i::::i o::::o     o::::o  n::::n    n::::n  F:::::F               I::::I  
+         V:::::::V        i::::::is:::::ssss::::::si::::::io:::::ooooo:::::o  n::::n    n::::nFF:::::::FF           II::::::II
+          V:::::V         i::::::is::::::::::::::s i::::::io:::::::::::::::o  n::::n    n::::nF::::::::FF           I::::::::I
+           V:::V          i::::::i s:::::::::::ss  i::::::i oo:::::::::::oo   n::::n    n::::nF::::::::FF           I::::::::I
+            VVV           iiiiiiii  sssssssssss    iiiiiiii   ooooooooooo     nnnnnn    nnnnnnFFFFFFFFFFF           IIIIIIIIII
